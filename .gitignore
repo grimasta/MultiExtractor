@@ -18,3 +18,5 @@
 /backup_repo_files/
 /.classpath
 /.project
+/MultiExtractor/.settings
+/.idea/
